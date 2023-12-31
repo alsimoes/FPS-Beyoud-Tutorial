@@ -35,18 +35,15 @@
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.xm filter=lfs diff=lfs merge=lfs -text
 
-
 # Video files
 *.wmv filter=lfs diff=lfs merge=lfs -text
 *.avi filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 
-
 # Fonts files
 *.otf filter=lfs diff=lfs merge=lfs -text
 *.ttf filter=lfs diff=lfs merge=lfs -text
-
 
 # 3D models files
 *.3dm filter=lfs diff=lfs merge=lfs -text
@@ -69,7 +66,6 @@
 *.stl filter=lfs diff=lfs merge=lfs -text
 *.ztl filter=lfs diff=lfs merge=lfs -text
 
-
 # Collapse Unity-generated files on GitHub
 *.asset linguist-generated
 *.mat linguist-generated
@@ -77,7 +73,6 @@
 *.prefab linguist-generated
 *.unity linguist-generated
 *.aar filter=lfs diff=lfs merge=lfs -text
-
 
 # Microsoft Office files
 *.xls filter=lfs diff=lfs merge=lfs -text
@@ -91,7 +86,6 @@
 *.docm filter=lfs diff=lfs merge=lfs -text
 *.pptm filter=lfs diff=lfs merge=lfs -text
 *.mppx filter=lfs diff=lfs merge=lfs -text
-
 
 # Compact files files
 *.zip filter=lfs diff=lfs merge=lfs -text
