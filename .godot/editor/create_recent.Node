@@ -1,0 +1,15 @@
+AudioStreamPlayer3D
+AnimatedSprite3D
+CollisionShape3D
+CharacterBody3D
+AudioStreamPlayer
+Button
+Label
+Panel
+Control
+ColorRect
+AnimatedSprite2D
+CanvasLayer
+Camera3D
+RayCast3D
+DirectionalLight3D
